@@ -8,7 +8,7 @@
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]От: Директора департамента Специальных Служб[/bold] 
-[head=3]Кому:[/head] [bolditalic]Офис корпоративного связного[/bold]|[bold]КМП[/bolditalic] [bolditalic]Алмайер[/bolditalic]
+[head=3]Кому:[/head] [bolditalic]Офис Корпоративного Связного[/bold]|[bold]КСША[/bolditalic] [bolditalic]Алмайер[/bolditalic]
 [bold]Код авторизации:[/bold] [bolditalic]1[color=#6FD15C] Чарли[/color]-[color=#6FD15C]Лима[/color][/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bolditalic]Доброе утро,[/bolditalic]
@@ -19,5 +19,5 @@
 
 [bold]Подпись,[/bold]
 [color=#1b67a5][italic]ИмяЗдесь[/italic][/color] 
-[bolditalic]Корпоративный Связной[/bolditalic]|[bold]КСШ[/bold] [bolditalic]Алмайер[/bolditalic]
+[bolditalic]Корпоративный Связной[/bolditalic]|[bold]КСША[/bold] [bolditalic]Алмайер[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]

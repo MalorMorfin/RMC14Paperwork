@@ -14,5 +14,5 @@
 
 [bold]Подпись,[/bold]
 [color=#1b67a5][italic]ИмяЗдесь[/italic][/color] 
-[bolditalic]Корпоративный Связной[/bolditalic]|[bold]КСШ[/bold] [bolditalic]Алмайер[/bolditalic]
+[bolditalic]Корпоративный Связной[/bolditalic]|[bold]КСША[/bold] [bolditalic]Алмайер[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
